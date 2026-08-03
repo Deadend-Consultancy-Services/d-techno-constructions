@@ -23,7 +23,7 @@ export function About() {
           <div className="overflow-hidden rounded-2xl border border-border">
             <img
               src="/about-team.png"
-              alt="Darshan Civil Works engineers reviewing house plans on site"
+              alt="D TechNo Construction engineers reviewing house plans on site"
               className="h-full w-full object-cover"
             />
           </div>
